@@ -24,7 +24,7 @@ class Books {
     // Save books to local storage
     Books.saveBooks();
 
-    // Clear input fields
+    // Clear the input fields
     Books.clearInputFields();
     // Display success message
     Books.showsuccessMessage('Book added successfully!');
